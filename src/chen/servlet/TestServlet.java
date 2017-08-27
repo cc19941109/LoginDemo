@@ -16,7 +16,5 @@ public class TestServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.getWriter().append(" test success!");
 
-
-
     }
 }

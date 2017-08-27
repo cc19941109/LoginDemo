@@ -7,6 +7,15 @@
         <element id="directory" name="classes">
           <element id="module-output" name="LoginDemo" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/commons-logging.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/jaxen-1.1-beta-6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/commons-beanutils-1.8.0源码+jar包/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/jakarta-taglibs-standard-1.1.2/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../package/jarPackage/jakarta-taglibs-standard-1.1.2/lib/jstl.jar" />
+        </element>
       </element>
     </root>
   </artifact>
